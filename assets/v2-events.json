@@ -1,0 +1,24 @@
+{
+    "events":[
+        {
+         "name": "kwa ace",
+         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg_lLO_8WWfy7wTs5hjNS0peKS_0FXgdhrTw&usqp=CAU", 
+         "url" : "https://www.kwaace.co.za/"
+            
+        },
+
+        {
+            "name": "Rands CapeTown",
+            "image": "https://weekendspecial.co.za/wp-content/uploads/2018/11/Rands-Ultimate-Weekender-Black-Coffee-300x284.jpg", 
+            "url" : "https://rands-cape-town.business.site/?utm_source=gmb&utm_medium=referral"
+        },
+
+        {
+            "name": "Ayep yep",
+            "image": "https://mail.google.com/mail/u/0?ui=2&ik=3e658e8612&attid=0.1&permmsgid=msg-f:1758989002934724412&th=18692f2dbbbe273c&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-eN1IEAkJEVN-DohtQeefZmoZzvV5_7oBkS753cz-LO-Pna1A5Wjuixjplf34c6X7mDu8RUUxTtVhHuBTMtwaifM7uj9ogn8QeWGhg-yW6Mc0LQ_ahnDMIANY&disp=emb&realattid=ii_lemtqh550", 
+            "url" : "https://ayepyeplifestyle.com/"
+        }
+
+    
+    ]
+}
